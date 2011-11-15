@@ -1,7 +1,9 @@
 #
 # EWMA example
 #
+library(zoo)
 set.seed(667)
+
 deltas <- rnorm(100)
 prices <- cumsum(deltas)
 
