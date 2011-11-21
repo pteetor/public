@@ -6,7 +6,7 @@ Help yourself to any materials you find useful.
 
 ### Contents ###
 
- - CRUG-2011-Nov: Snippets of R code from my "Fast(er) R Code" talk given at the Chicago R User's Group Meet-up, November 2012
+ - CRUG-2011-Nov: Snippets of R code from my "Fast(er) R Code" talk given at the Chicago R User's Group Meet-up, November 2011
 
 ### Author ####
 
